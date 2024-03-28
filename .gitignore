@@ -1,0 +1,7 @@
+artifacts/*
+
+logs/*
+
+research/logs/running_logs.log
+
+src/textSummarizer.egg-info/*
