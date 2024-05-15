@@ -10,3 +10,42 @@
 6. update the pipeline
 7. update the main.py
 8. update the app.py
+
+# How to run?
+
+### STEPS:
+
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n summary python=3.9 -y
+```
+
+```bash
+conda activate summary
+```
+
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+
+
+```bash
+# Finally run the following command
+python app.py
+```
+
+Now,
+```bash
+open up you local host and port
+```
+
+
+```bash
+Author:chandan N
+Associate Data Scientist
+Email: chandann3231@gmail.com
+
+```
